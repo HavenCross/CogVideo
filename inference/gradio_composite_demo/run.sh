@@ -1,0 +1,1 @@
+nohup python -u cogstudio.py > cogstudioNohup.log
